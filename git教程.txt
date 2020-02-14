@@ -1,0 +1,6 @@
+git远程提交项目
+
+git status
+git add .
+git commit -m "说明声明"
+git push 链接路径 master
