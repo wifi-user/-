@@ -1,6 +1,6 @@
-git远程提交项目
+git push github
 
 git status
 git add .
-git commit -m "说明声明"
-git push 链接路径 master
+git commit -m "my say"
+git push "url" master
