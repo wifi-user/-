@@ -1,5 +1,24 @@
-git远程提交项目
+git 远程提交项目
 
+git status
+
+git add .
+
+git commit -m "文件声明"
+
+git push 链接路径 master
+|
+|
+|
+|
+|
+|
+|
+|
+
+"无编码"
+
+git远程提交项目
 git status
 git add .
 git commit -m "说明声明"
